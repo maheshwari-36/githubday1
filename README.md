@@ -2,7 +2,7 @@
 day1 github workshop for ece-a 
 ## Basic linux Commands
 - pwd
-- cd
+- cd path
 - ls
 - ls -a
 - mkdir foldername
